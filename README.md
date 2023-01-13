@@ -4,7 +4,7 @@
 
 Clique na imagem para ser redirecionado ao código:
 
-Click on the image to be redirected to the code:
+Click on the image dskmd to be redirected to the code:
 
 <p float="left">
 
